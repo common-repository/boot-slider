@@ -1,0 +1,8 @@
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: transparent;
+}
+
+.bt_cap_hide {
+    display: none !important;
+}
